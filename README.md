@@ -9,8 +9,6 @@ This project was developed using **Power BI Desktop**. The interactive dashboard
 *   **Download the Power BI File:** [SN_Crop_Dashboard.pbix](https://mytrine-my.sharepoint.com/:u:/r/personal/sdasari241_my_trine_edu/Documents/SN_Crop_Dashboard.pbix?csf=1&web=1&e=JLKC2P)
     *   *Requires Microsoft Power BI Desktop to open and view interactivity.*
 
-*   **View Static Dashboard Preview:** A high-level screenshot of the dashboard is provided below.
-
 
 ## 🎯 Business Objectives & Value Delivered
 
