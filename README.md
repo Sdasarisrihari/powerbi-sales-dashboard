@@ -11,9 +11,6 @@ This project was developed using **Power BI Desktop**. The interactive dashboard
 
 *   **View Static Dashboard Preview:** A high-level screenshot of the dashboard is provided below.
 
-## 📸 Dashboard Overview
-
-![Dashboard Overview](assets/dashboard-overview.png)
 
 ## 🎯 Business Objectives & Value Delivered
 
